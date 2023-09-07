@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>resources/background.png</file>
+        <file>resources/HidePassIcon.png</file>
+        <file>resources/ShowPassIcon.png</file>
+        <file>resources/ens.png</file>
+        <file>resources/elv.png</file>
+    </qresource>
+</RCC>
